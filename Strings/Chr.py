@@ -1,0 +1,6 @@
+print(chr (65))
+print(chr (66))
+print(chr (49))
+print(chr (53))
+print("O caractere correspondente a 32 é", chr(32), "!!")
+print(ord(""))
